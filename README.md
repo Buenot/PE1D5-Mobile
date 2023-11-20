@@ -1,14 +1,14 @@
 # Colaboradores
-- **Sabrina Moura Granda GU3021114 
-- **Sullivan Santos Castilho GU3020363
-- **Taina Marins Bueno GU302279X
-- **Yasmin Cristina Corrêa GU3020959
+- Sabrina Moura Granda GU3021114 
+- Sullivan Santos Castilho GU3020363
+- Taina Marins Bueno GU302279X
+- Yasmin Cristina Corrêa GU3020959
 
 # Responsabilidades 
-- **Back-end Sullivan e Yasmin
-- **Front-end Sabrina e Taina
+- Back-end Sullivan e Yasmin
+- Front-end Sabrina e Taina
 
-- **Este é um sistema em Node.js que oferece funcionalidades completas para o gerenciamento de eventos esportivos, incluindo autenticação de usuários, manipulação de eventos, lógica de torneio com chaves, e outras páginas relacionadas ao sistema.
+- Este é um sistema em Node.js que oferece funcionalidades completas para o gerenciamento de eventos esportivos, incluindo autenticação de usuários, manipulação de eventos, lógica de torneio com chaves, e outras páginas relacionadas ao sistema.
 
 ## Dependências
 
